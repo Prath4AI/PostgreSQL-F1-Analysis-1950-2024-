@@ -1,5 +1,13 @@
 # PostgreSQL-F1-Analysis-1950-2024-
-This F1 SQL analytics project explores race data to uncover driver and constructor performance trends, pit stop efficiency, qualifying vs. race results, and historical dominance using advanced SQL queries across seasons.
+This F1 analytics project leverages advanced SQL queries to explore race data, revealing insights into driver and constructor performance trends, pit stop efficiency, qualifying vs. race outcomes, and historical dominance across seasons. Complemented by an interactive Power BI dashboard, it visually showcases performance analysis for drivers and teams, offering a dynamic, data-driven view of Formula 1’s competitive history.
+
+![Image](https://github.com/user-attachments/assets/80669671-a936-48b7-a5b3-e66ed6cbf818)
+
+![Image](https://github.com/user-attachments/assets/03a6b9b2-592f-48b4-be12-403cc4168b6f)
+
+![Image](https://github.com/user-attachments/assets/4f7709b0-ecdd-4c98-84fb-85f0bef5d11f)
+
+![Image](https://github.com/user-attachments/assets/fe990411-34ef-4fc9-a29e-0f155c7ea2d6)
 
 ✅ 5 Basic SQL Questions
 
